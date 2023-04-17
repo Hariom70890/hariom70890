@@ -49,4 +49,4 @@ Developed a personal blog website using Next.js and deployed it on Vercel. Desig
 
 
  ###  Github Statistics:
-[![Stars](https://img.shields.io/github/stars/yourusername/your-repo.svg)](https://github.com/yourusername/your-repo/stargazers)
+[![Stars](https://img.shields.io/github/stars/hariom70890/hariom70890.svg)](https://github.com/hariom70890/hariom70890/stargazers)
