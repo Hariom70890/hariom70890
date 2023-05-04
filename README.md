@@ -1,5 +1,7 @@
 
- ###  Hi 👋, I'm Hariom Verma
+
+
+# 💫 About Me: I'm Hariom Verma
 
 Hello, I'm Hariom, a Full Stack Web Developer with expertise in React, Node.js, and MongoDB.
 - 🔭 I’m currently working on software developement skills
@@ -9,44 +11,22 @@ Hello, I'm Hariom, a Full Stack Web Developer with expertise in React, Node.js, 
 - 📫 How to reach me: hariomsunilverma@gmail.com 
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariom-verma-9618b41b7/) 
+- [![GitHub Profile](https://img.shields.io/badge/github-%230077B5.svg?logo=github&logoColor=white)](https://github.com/Hariom70890)
+- Email: hariomsunilverma@gmail.com
 
-## Projects
-### Project 1 - E-commerce Website
-![E-commerce Website Screenshot](./images/ecommerce.png)
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+ ![](https://github-readme-stats.vercel.app/api?username=hariom70890&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=hariom70890&theme=highcontrast&hide_border=false)<br/>
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hariom70890&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Built a fully functional e-commerce website using MERN stack. Implemented features such as user authentication, product listing, shopping cart, and payment integration using Stripe API.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hariom70890&theme=tokyonight&no-frame=true&no-bg=true&margin-w=60)
 
-### Project 2 - Personal Blog
-![Personal Blog Screenshot](./images/blog.png)
+---
+[![](https://visitcount.itsvg.in/api?id=hariom70890&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-Developed a personal blog website using Next.js and deployed it on Vercel. Designed the UI/UX, implemented blog posts with Markdown support, and added custom animations using Lottie animations.
-
-
-## Contact Information
-- Email: john@example.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hariom-verma-9618b41b7/)
-- GitHub: [GitHub Profile](https://github.com/Hariom70890)
-
-
-## Tech Stack
-![](https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
-![](https://camo.githubusercontent.com/e6b67b27998fca3bccf4c0ee479fc8f9de09d91f389cccfbe6cb1e29c10cfbd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
-![](https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145)
-![](https://camo.githubusercontent.com/cc9699ba2e9366e1ea5cfc4ed7b8cdde446c40d13409cdc4773caae774dabfc8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6368616b72612d2532333445443143352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6368616b72617569266c6f676f436f6c6f723d7768697465)
-![](https://camo.githubusercontent.com/ab4c3c731a174a63df861f7b118d6c8a6c52040a021a552628db877bd518fe84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642)
-![](https://camo.githubusercontent.com/ab4c3c731a174a63df861f7b118d6c8a6c52040a021a552628db877bd518fe84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642)
-![](https://camo.githubusercontent.com/9a7c7ebbabb2096c0ad0cac6f64bc9fe93f4954a3ae3f51d6f3e076ba462aab1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656475782d2532333539336438382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465)
-![](https://camo.githubusercontent.com/dfb4109b571fbeb03ce2fe6eefb9eb9a3ca63e618e57002cc4b17d784baea807/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e65746c6966792d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e65746c696679266c6f676f436f6c6f723d23303043374237)
-![](https://camo.githubusercontent.com/22547aa007860433c23771dfd59d184297d9433adcf3082be8515a28a16cd875/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465)
-![](https://camo.githubusercontent.com/22547aa007860433c23771dfd59d184297d9433adcf3082be8515a28a16cd875/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465)
-![](https://camo.githubusercontent.com/22547aa007860433c23771dfd59d184297d9433adcf3082be8515a28a16cd875/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465)
-![](https://camo.githubusercontent.com/22547aa007860433c23771dfd59d184297d9433adcf3082be8515a28a16cd875/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657263656c2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465)
-![]()
-![]()
-![]()
-
-
-
- ###  Github Statistics:
-[![Stars](https://img.shields.io/github/stars/hariom70890/hariom70890.svg)](https://github.com/hariom70890/hariom70890/stargazers)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
