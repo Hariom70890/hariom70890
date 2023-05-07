@@ -1,8 +1,16 @@
 
 
 
-# 💫 About Me: I'm Hariom Verma
+<img  src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" height="200px" width="100%" align="center" />
 
+<h1 align="center">Hi 👋, I'm Hariom Verma</h1>
+<h3 align="center">"Passionate full-stack developer with expertise in developing and deploying web applications, leveraging both client-side and server-side technologies."</h3>
+
+
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=b440e2&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)
+ 
+ 
+# 💫 About Me: 
 Hello, I'm Hariom, a Full Stack Web Developer with expertise in React, Node.js, and MongoDB.
 - 🔭 I’m currently working on software developement skills
 - 🌱 I’m currently learning Full Stack Web dvelopment
@@ -29,4 +37,20 @@ Hello, I'm Hariom, a Full Stack Web Developer with expertise in React, Node.js, 
 ---
 [![](https://visitcount.itsvg.in/api?id=hariom70890&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<hr/>
+<h3 align="center">
+ Show some ❤️ by starring some of the repositories!
+</h3>
+<br>
+<h3 align="center"> 
+  Visitor count <br><br>
+  <img  src="https://profile-counter.glitch.me/0126prashant/count.svg" />
+</h3>
+
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
