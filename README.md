@@ -44,7 +44,7 @@ Hello, I'm Hariom, a Full Stack Web Developer with expertise in React, Node.js, 
 <br>
 <h3 align="center"> 
   Visitor count <br><br>
-  <img  src="https://profile-counter.glitch.me/0126prashant/count.svg" />
+  <img  src="https://profile-counter.glitch.me/hariom70890/count.svg" />
 </h3>
 
 <div align="center">
