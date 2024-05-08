@@ -20,8 +20,8 @@ Hello, I'm Hariom, a Full Stack Web Developer with expertise in React, Node.js, 
 
 
 ## 🌐 Socials:
-- [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=portfolio&logoColor=white)](https://hariom70890.github.io/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariom-verma-9618b41b7/) 
+- [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=portfolio&logoColor=white)](https://hariom70890.github.io)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariom-verma-9618b41b7) 
 - [![GitHub Profile](https://img.shields.io/badge/github-%230077B5.svg?logo=github&logoColor=white)](https://github.com/Hariom70890)
 - Email: hariomsunilverma@gmail.com
 
